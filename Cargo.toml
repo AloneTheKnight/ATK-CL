@@ -1,0 +1,15 @@
+[package]
+name = "atk-cl"
+version = "0.1.0"
+edition = "2024"
+
+description = "Alone The Knight's Crypto Lib"
+authors = ["Alone The Knight"]
+
+[dependencies]
+base64 = "0.22"
+rpassword = "7"
+getrandom = "0.3"
+zeroize = "1"
+same-file = "1"
+tempfile = "3"

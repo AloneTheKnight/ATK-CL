@@ -1,0 +1,3 @@
+pub const KEY_SIZE: usize = 32;
+pub const NONCE_SIZE: usize = 16;
+pub const TAG_SIZE: usize = 32;
